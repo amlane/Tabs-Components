@@ -8,6 +8,7 @@
   position: absolute;
   left: 25px;
   cursor: pointer;
+  transition: height 2s;
 }
 .dropdown .dropdown-button {
   padding: 15px;
@@ -36,6 +37,7 @@
   font-size: 18px;
   text-decoration: none;
   color: #931d25;
+  transition: height 2s;
 }
 .dropdown .dropdown-link:hover {
   color: #ffffff;
